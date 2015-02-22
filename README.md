@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Project
+# Getting and Cleaning Data Project
 Damià Valero Bover, Barcelona 22/02/2015.
 Project of Coursera course Getting and Cleaning Data
 ----------------------------------------------------
