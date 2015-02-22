@@ -2,6 +2,10 @@
 Damià Valero Bover, Barcelona 22/02/2015.
 Project of Coursera course Getting and Cleaning Data
 ----------------------------------------------------
+This text will provide information about the resulting dataset named tidydata.txt, and the code used in Run_Analysis.R to extract it. 
+
+
+
 ## Files
 
 In this project, the next files can be found: 
@@ -11,8 +15,6 @@ In this project, the next files can be found:
 
 
 ## Code definition
-This text will provide information about the resulting dataset named tidydata.txt, and the code used in Run_Analysis.R to extract it. 
-
 First of all, it is assumed that in the working directory there is a folder named Data, which contains the unzipped version of the raw data. The Run_Analysis.R also provides separated sections for each one of the 5 tasks. 
 
 The first step of the code is to set the working directory, then import the next documents: 
