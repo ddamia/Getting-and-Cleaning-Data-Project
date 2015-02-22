@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Project
-Damià Valero Bover, Barcelona 22/02/2015.
+Damià Valero, Barcelona 22/02/2015.
 Project of Coursera course Getting and Cleaning Data
 ----------------------------------------------------
 This text will provide information about the resulting dataset named tidydata.txt, and the code used in Run_Analysis.R to extract it. 
